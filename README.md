@@ -1,6 +1,6 @@
 # farum_protocol_flutter_v1
 
-A new Flutter project.
+Sport manager app for clubs and training centers created with flutter and firebase.
 
 ## Getting Started
 
